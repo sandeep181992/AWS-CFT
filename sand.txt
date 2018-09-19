@@ -358,7 +358,7 @@
 			"sudo yum install -y httpd\n",
 			"sudo systemctl enable httpd\n",
 			"sudo systemctl start httpd\n",
-			"echo welcome to jnit >> /var/www/html/index.html\n",
+			"echo welcome back >> /var/www/html/index.html\n",
 			"setenforce 0"
 			] ]
     }
